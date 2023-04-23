@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Eatable
+  m_EditorClassIdentifier: 
+  m_GroupName: Eatable
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b4cc62153b3e37c4683d45e9897d3a89
+  m_SerializeEntries:
+  - m_GUID: 4a1abee96c8bfa847b1b66dddb4d1a51
+    m_Address: Assets/Art/Streaming/Eatable/Apricot.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 84a95c1d84b292e44b196a246ae7f0de
+    m_Address: Assets/Art/Streaming/Eatable/Cake.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb235cb0a5923694283abc33edf1a4be
+    m_Address: Assets/Art/Streaming/Eatable/Grape.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 412d9b32be5138f4f926821db2b35d87
+    m_Address: Assets/Art/Streaming/Eatable/Melon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88d2e744376963c4fafe04b5e2ecf9db
+    m_Address: Assets/Art/Streaming/Eatable/Raspberries.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1cc16e0941eb6ec4fb711e6ff3e2ce1a
+    m_Address: Assets/Art/Streaming/Eatable/Tomato.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 30853ebc2cb1b65499918471ffd26eff, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e7912e9f4a7aabb4d9d7892374467f1c, type: 2}
+    - {fileID: 11400000, guid: 9a6181f43f0cfe94cb259fe5cfad71a6, type: 2}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Uneatable
+  m_EditorClassIdentifier: 
+  m_GroupName: Uneatable
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c5d5a71579ba276448cd962e4bb0d439
+  m_SerializeEntries:
+  - m_GUID: b5d420f1afd7c524b97841a35239cadc
+    m_Address: Assets/Art/Streaming/Uneatable/Backpack.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 873d0e622e332694081b6b56fdc45101
+    m_Address: Assets/Art/Streaming/Uneatable/Ball.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c8b85dd6c6afcd44499d3414044918ff
+    m_Address: Assets/Art/Streaming/Uneatable/Flashlight.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77bb8f5f4ffec214490078b0fe97da13
+    m_Address: Assets/Art/Streaming/Uneatable/Lighthouse.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c8f9ba8eb8d10a1468bd363bb77fd776
+    m_Address: Assets/Art/Streaming/Uneatable/Rollers.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64a75650af320c8459253edbbb809aee
+    m_Address: Assets/Art/Streaming/Uneatable/Telephone.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 30853ebc2cb1b65499918471ffd26eff, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5aa74cf7f7ddd0f4fab175e194ba8b03, type: 2}
+    - {fileID: 11400000, guid: 0596aebf739d3634698f0536ec75ec9b, type: 2}
